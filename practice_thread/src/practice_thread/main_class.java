@@ -1,0 +1,11 @@
+package practice_thread;
+
+public class main_class {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		frame main_frame = new frame("Main");
+		
+	}
+
+}
